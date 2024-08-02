@@ -7,12 +7,12 @@ As a dedicated IT Security Analyst with a deep passion for cybersecurity, I have
 
 | Project Name                                  | Link         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/josezamoranolabs/Azure-SIEM-Project">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Azure Sentinel SIEM          | <a href="https://github.com/josezamoranolabs/Azure-SIEM-Project">Detection Lab</a>|
+| Nuetrino API SIEM Integration Using Python  | <a href="https://google.com">Detection Lab</a>|
+| Template       | SOC Automation Lab|
+| Template    | SOC Automation Lab|
+| Template                | SOC Automation Lab|
+| Python Code | SOC Automation Lab|
 
 ## If you have any questions or suggestions...
 
