@@ -7,7 +7,7 @@ As a dedicated IT Security Analyst with a deep passion for cybersecurity, I have
 
 | Project Name                                  | Link         |
 |-----------------------------------------------|----------------------------|
-| Azure Sentinel SIEM          | <a href="https://github.com/josezamoranolabs/Azure-SIEM-Project">Detection Lab</a>|
+| Azure Sentinel SIEM          | <a href="https://github.com/josezamoranogit/Azure-Honeypot-Lab">Detection Lab</a>|
 | Nuetrino API SIEM Integration Using Python  | <a href="https://google.com">Detection Lab</a>|
 | Template       | SOC Automation Lab|
 | Template    | SOC Automation Lab|
