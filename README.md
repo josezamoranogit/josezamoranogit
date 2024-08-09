@@ -11,7 +11,7 @@ As a dedicated IT Security Analyst with a deep passion for cybersecurity, I have
 | Nuetrino API SIEM Integration Using Python  | <a href="https://google.com">Detection Lab</a>|
 | Template       | SOC Automation Lab|
 | Template    | SOC Automation Lab|
-| Defender Advanced Hunting KQL Queries | SOC Automation Lab|
+| Defender Advanced Hunting KQL Queries |<a href="https://github.com/josezamoranogit/KQL-Defender-Queries"> Defender KQL Queries</a>|
 | Python Code | SOC Automation Lab|
 
 ## If you have any questions or suggestions...
