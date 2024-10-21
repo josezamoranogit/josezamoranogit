@@ -8,7 +8,7 @@ As a dedicated IT Security Analyst with a deep passion for cybersecurity, I have
 | Project Name                                  | Link         |
 |-----------------------------------------------|----------------------------|
 | Azure Honeypot         | <a href="https://github.com/josezamoranogit/Azure-Honeypot-Lab">Detection Lab</a>|
-| Nuetrino API SIEM Integration Using Python (In Progress) | Detection Lab |
+| Nuetrino API Azure Sentinel Integration Using Python (In Progress) | Detection Lab |
 | Defender Advanced Hunting KQL Queries |<a href="https://github.com/josezamoranogit/KQL-Defender-Queries"> Defender KQL Queries</a>|
 
 
